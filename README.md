@@ -16,7 +16,7 @@ https://dspace.mit.edu/handle/1721.1/85490 - Hierarchical controller for highly 
 Videos:
 
 https://www.youtube.com/watch?v=Ug-1wr7FZlY&list=PLNw2RD-1J5YYvFGiMafRD_axHrBUGvuIg&index=10 - gazebo model editor
-
+https://www.youtube.com/watch?v=NeHCVNUcZrw - inverse kinematics
 LINKS:
 
 Impedance control base theory:
