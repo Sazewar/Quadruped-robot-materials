@@ -42,6 +42,7 @@ https://gymnasium.farama.org/environments/box2d/lunar_lander/
 
 Simulators:
 https://github.com/ntnu-arl/aerial_gym_simulator
+https://github.com/Sentdex/TD3-Bittle - quadruped robot RL in Isaac GYM
 
 GRIPPERS:
 
