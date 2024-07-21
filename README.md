@@ -4,7 +4,7 @@
 
 Valuable repositiories:
 https://github.com/singhaman1750/Legged-Robots - assembly of papers about legged robots
-
+https://github.com/curieuxjy/Awesome_Quadrupedal_Robots?tab=readme-ov-file
 https://github.com/NDHANA94/ - Nipun's hyperdog
 
 https://github.com/chvmp/champ - Champ
